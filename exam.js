@@ -338,3 +338,13 @@ function Mission5(unitObj){
 }
 
 console.log(Mission5(militaryUnit))
+
+
+
+module.export = {
+    Mission1,
+    Mission2,
+    Mission3,
+    Mission4,
+    Mission5
+}
