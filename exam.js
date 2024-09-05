@@ -341,7 +341,7 @@ console.log(Mission5(militaryUnit))
 
 
 
-module.export = {
+module.exports = {
     Mission1,
     Mission2,
     Mission3,
